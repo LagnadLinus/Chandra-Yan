@@ -5,7 +5,6 @@ Chandra Yan is an engaging, space-themed game where players embark on a cosmic a
 **Features**
 Stunning Space Environment: Explore beautifully designed lunar landscapes.
 Challenging Obstacles: Test your reflexes and decision-making skills.
-Educational Elements: Learn about space exploration and India's lunar missions.
 User-Friendly Interface: Simple controls for an enjoyable gaming experience.
 
 **Installation**
